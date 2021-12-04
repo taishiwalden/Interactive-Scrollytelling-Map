@@ -17,3 +17,13 @@ I wanted to create a visual format highlighting the key arguments for this capst
 ***
 
 ### The final product (WIP)
+
+
+***
+
+### Resources
+
+* [Scrollytelling Template](https://github.com/vakila/mapbox-concatenate-workshop/blob/master/scrollytelling/DOCUMENTATION.md)
+* [Mapbox Concatenate Workshop Part 5](https://vakila.github.io/mapbox-concatenate-workshop/part-5.html)
+* [Concatenate Workshop Slides](https://docs.google.com/presentation/d/1_SHifQ2zipxfwsRNkbzcQ2N39wCBgzKU4BFpDM6MNuc/edit#slide=id.g6301a997b3_1_542)
+* [Jackson School of International Studies: 2021 Task Force List](https://jsis.washington.edu/news/jsis-495-i-jim-wellman-israel-and-the-middle-east/)
