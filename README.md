@@ -14,4 +14,6 @@ I wanted to create a visual format highlighting the key arguments for this capst
 * Mapbox GL JS
 * Scrollama JS
 
+***
+
 ### The final product (WIP)
