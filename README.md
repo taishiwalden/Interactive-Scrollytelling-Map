@@ -9,7 +9,9 @@ I co-wrote a research analysis capstone providing a detailed blueprint for the c
 I wanted to create a visual format highlighting the key arguments for this capstone, so a wider audience could engage with it. I used [Anjana Sofia Vakil's template for MapBox GL JS "scrollytelling solutions"](https://github.com/vakila/mapbox-concatenate-workshop/blob/master/scrollytelling/DOCUMENTATION.md) as a guide to help me. 
 
 ### Built with
-*Mapbox GL JS
-*Scrollama JS
+***
+
+* Mapbox GL JS
+* Scrollama JS
 
 ### The final product (WIP)
