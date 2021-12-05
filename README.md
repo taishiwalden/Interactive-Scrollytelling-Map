@@ -20,7 +20,7 @@ Host the index.html and config.js files in the same directory in a web-accessibl
 
 
 ### The final product (WIP)
-<iframe src="https://giphy.com/embed/88nXox79wFX3SX6HbD" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/88nXox79wFX3SX6HbD">via GIPHY</a></p>
+![giphy](https://user-images.githubusercontent.com/75241036/144769211-79add326-6be1-46c4-b854-a527cda489db.gif)
 
 ***
 
