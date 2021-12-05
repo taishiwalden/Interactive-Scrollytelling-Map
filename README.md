@@ -15,6 +15,9 @@ I wanted to create a visual format highlighting the key arguments for this capst
 * Scrollama JS
 
 ***
+### Deployment
+Host the index.html and config.js files in the same directory in a web-accessible location.
+
 
 ### The final product (WIP)
 
