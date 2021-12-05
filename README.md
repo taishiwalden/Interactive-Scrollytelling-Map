@@ -1,4 +1,4 @@
-# Interative-Scrollytelling-Map
+# Interactive-Scrollytelling-Map
 ## JSIS 495 JSIS Task Force: Israel and the Middle East
 ### CENTERING PALESTINIAN HUMAN RIGHTS: RECOMMENDATIONS FOR A COALITION
 
